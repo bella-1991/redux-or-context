@@ -1,4 +1,6 @@
-.header { background: #00629e; color: #ffffff; padding: 10px; text-align: center; }
+.header { background: #00629e; padding: 10px; text-align: center; }
+.header a { text-decoration: none; color: #ffffff; }
+
 .main { padding: 20px; }
 
 .home__page-container { display: flex; justify-content: space-between; padding: 10px; }

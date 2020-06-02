@@ -3,7 +3,7 @@ import React from 'react';
 export const Header = () => {
     return (
         <header className="header">
-            <h1>Redux vs Context Api</h1>
+            <h1><a href="/">Redux vs Context Api</a></h1>
         </header>
     );
 }
