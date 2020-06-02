@@ -1,0 +1,9 @@
+.context-way .header { background: transparent; color: #00629e; text-align: left; padding: 0; }
+.context-way .counter__container { display: flex; align-items: center; flex-direction: column; border: 1px solid #cccccc; border-radius: 4px; padding: 20px; }
+.context-way .count { display: flex; flex-direction: column; align-items: center; }
+.context-way .count__counter { font-size: 60px; }
+.context-way .counter__buttons { margin: 15px 0; }
+.context-way .counter__button { padding: 10px 20px; background: transparent; border: none; font-size: 16px; color: #ffffff; cursor: pointer; } 
+.context-way .counter__button:focus { outline: none; }
+.context-way .counter__button--increase { background: green; }
+.context-way .counter__button--decrease { background: red; }
